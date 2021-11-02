@@ -37,7 +37,7 @@ Model validation. Yes-no using goodness-of-fit tests and residual examination.
 
 Estimated culture population. $98 \%$ of all statisticians.
 
-####  The Algorithmic Modeling Culture
+###  The Algorithmic Modeling Culture
 
 The analysis in this culture considers the inside of the box complex and unknown. Their approach is to find a function $f(\mathbf{x})$-an algorithm that operates on $\mathbf{x}$ to predict the responses $\mathbf{y}$. Their black box looks like this:
 
