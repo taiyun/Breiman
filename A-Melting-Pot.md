@@ -20,7 +20,7 @@
 - 使用概率模型来理解和解释算法模型的行为和性能的例子很多。我们列出了一些：
 
   - 在支持向量机中，使用铰链损失（hinge-loss）以及一些惩罚项，便可与逻辑回归的对数似然进行直接比较，同时也可以弄明白它们的一些相似性和不同之处 
-  - 将Adaboost解释为加法逻辑回归模型（additive logistic regression model），促进了梯度增强（gradient boosting ）的发展。
+  - 将Adaboost解释为加法逻辑回归模型（additive logistic regression model），促进了梯度提升（gradient boosting ）的发展。
   - 对机器学习中的“双下降”（double descent）现象，使用简单的参数模型可以给出清晰的解释。
 
 
